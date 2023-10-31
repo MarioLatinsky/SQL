@@ -1,0 +1,15 @@
+C:\Users\MARIO\OneDrive\Desktop\IMEI_Task\ImeiTask\bin\Debug\net6.0\ImeiTask.exe
+C:\Users\MARIO\OneDrive\Desktop\IMEI_Task\ImeiTask\bin\Debug\net6.0\ImeiTask.deps.json
+C:\Users\MARIO\OneDrive\Desktop\IMEI_Task\ImeiTask\bin\Debug\net6.0\ImeiTask.runtimeconfig.json
+C:\Users\MARIO\OneDrive\Desktop\IMEI_Task\ImeiTask\bin\Debug\net6.0\ImeiTask.dll
+C:\Users\MARIO\OneDrive\Desktop\IMEI_Task\ImeiTask\bin\Debug\net6.0\ImeiTask.pdb
+C:\Users\MARIO\OneDrive\Desktop\IMEI_Task\ImeiTask\obj\Debug\net6.0\ImeiTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\OneDrive\Desktop\IMEI_Task\ImeiTask\obj\Debug\net6.0\ImeiTask.AssemblyInfoInputs.cache
+C:\Users\MARIO\OneDrive\Desktop\IMEI_Task\ImeiTask\obj\Debug\net6.0\ImeiTask.AssemblyInfo.cs
+C:\Users\MARIO\OneDrive\Desktop\IMEI_Task\ImeiTask\obj\Debug\net6.0\ImeiTask.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\OneDrive\Desktop\IMEI_Task\ImeiTask\obj\Debug\net6.0\ImeiTask.dll
+C:\Users\MARIO\OneDrive\Desktop\IMEI_Task\ImeiTask\obj\Debug\net6.0\refint\ImeiTask.dll
+C:\Users\MARIO\OneDrive\Desktop\IMEI_Task\ImeiTask\obj\Debug\net6.0\ImeiTask.pdb
+C:\Users\MARIO\OneDrive\Desktop\IMEI_Task\ImeiTask\obj\Debug\net6.0\ImeiTask.genruntimeconfig.cache
+C:\Users\MARIO\OneDrive\Desktop\IMEI_Task\ImeiTask\obj\Debug\net6.0\ref\ImeiTask.dll
+C:\Users\MARIO\OneDrive\Desktop\IMEI_Task\ImeiTask\obj\Debug\net6.0\ImeiTask.sourcelink.json
